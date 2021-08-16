@@ -86,7 +86,7 @@ es: &DEFAULT_ES
   comments_title             : "Comentarios"
   more_label                 : "Ver más"
   related_label              : "Puede que también te interese"
-  follow_label               : "Seguir:"
+  follow_label               : "Síguenos:"
   feed_label                 : "Feed"
   powered_by                 : "Funciona con"
   website_label              : "Sitio web"
@@ -112,6 +112,8 @@ es: &DEFAULT_ES
 es-ES:
   <<: *DEFAULT_ES
 es-CO:
+  <<: *DEFAULT_ES
+es-AR:
   <<: *DEFAULT_ES
 
 # French
