@@ -2,6 +2,12 @@
 main:
   - title: "Quick-Start Guide"
     url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
+  - title: Cinematica
+    url: /_pages/cinematica
+  - title: Dinamica
+    url: /_pages/dinamica
+  - title: Trabajo & Energia
+    url: /_pages/trabajo_energia
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
   # - title: "Sample Posts"
