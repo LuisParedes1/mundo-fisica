@@ -6,7 +6,7 @@ layout: archive
 
 <!--
   Comentar esta seccion en un futuro
--->
+
 <h3 class="archive__subtitle">{{ site.data.ui-text[site.locale].recent_posts | default: "Recent Posts" }}</h3>
 
 {% if paginator %}
@@ -21,7 +21,7 @@ layout: archive
     {% include archive-single.html type=entries_layout %}
   {% endfor %}
 </div>
-<!--
+
 -->
 
 {% include paginator.html %}
