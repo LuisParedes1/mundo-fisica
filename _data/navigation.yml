@@ -1,13 +1,22 @@
 # main links
 main:
-  - title: "Quick-Start Guide"
-    url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
   - title: Cinematica
     url: /_pages/cinematica
   - title: Dinamica
     url: /_pages/dinamica
   - title: Trabajo & Energia
     url: /_pages/trabajo_energia
+  - title: Sistema de Particulas
+    url: /_pages/sistema_particulas
+  - title: Cuerpo Rigido
+    url: /_pages/cuerpo_rigido
+  - title: Ondas
+    url: /_pages/ondas
+  - title: Optica Fisica
+    url: /_pages/optica_fisica
+  - title: Optica Geometrica
+    url: /_pages/optica_geometrica
+  
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
   # - title: "Sample Posts"
