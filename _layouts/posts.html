@@ -1,5 +1,5 @@
 ---
-layout: archive
+layout: archive_posts
 sidebar:
   nav: "docs"
 ---
@@ -32,8 +32,9 @@ sidebar:
         {% include archive-single.html type=entries_layout %}
       {% endfor %}
     </div>
+  {% endfor %}
     -->
   <section id="{{ year.name }}" class="taxonomy__section">
     <a href="#page-title" class="back-to-top">{{ site.data.ui-text[site.locale].back_to_top | default: 'Back to Top' }} &uarr;</a>
   </section>
-{% endfor %}
+
