@@ -1,8 +1,6 @@
 ---
 title: Cinematica de Particula
 layout: posts
-sidebar:
-  nav: "docs"
 ---
 
 Resumen de cinematica de una particula
