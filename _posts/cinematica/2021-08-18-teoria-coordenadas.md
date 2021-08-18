@@ -6,40 +6,35 @@ layout: posts
 # Ecuaciones Horarias
 
 $$
-x(t)= x_o + V_o\cdot t + \frac{1}{2} \cdot a \cdot t^2
+    x(t)= x_o + V_o\cdot t + \frac{1}{2} \cdot a \cdot t^2
+$$
 
 $$
-$$
-v(t)= V_o + a \cdot t 
-
+    v(t)= V_o + a \cdot t 
 $$
 
 ## Recordar
 
 $$
-\vec{a} = \frac{d\vec{v}}{dt}
+    \vec{a} = \frac{d\vec{v}}{dt}
+$$
 
 $$
-$$
-\vec{v} = \frac{d\vec{r}}{dt}
-
+    \vec{v} = \frac{d\vec{r}}{dt}
 $$
 
 ### IMPORTANTE
 
-- Para poder obtener la posición $\vec{r}_{(t)}$ en un determinado instante $t$, a partir de $\vec{v}_{(t)}$ debo tener la una posicion inicial
-    ($\vec{r}_o$) de referencia, de lo contrario no se puede.
-- Para poder obtener la velocidad $\vec{v}_{(t)}$ en un determinado instante $t$ a partir de $\vec{a}_{(t)}$ debo tener la una velocidad inicial
-    ($\vec{v}_o$) de referencia, de lo contrario no se puede
+- Para poder obtener la posición $\vec{r}_{(t)}$ en un determinado instante $t$, a partir de $\vec{v}_{(t)}$ debo tener la una posicion inicial ($\vec{r}_o$) de referencia, de lo contrario no se puede.
+- Para poder obtener la velocidad $\vec{v}_{(t)}$ en un determinado instante $t$ a partir de $\vec{a}_{(t)}$ debo tener la una velocidad inicial ($\vec{v}_o$) de referencia, de lo contrario no se puede.
 
 ## Otras formulas
 
 $$
 V_f^2 = V_o^2 + 2 \cdot a \cdot x
-
 $$
 
-* * *
+---
 
 # Ecuaciones Angulares
 
@@ -65,7 +60,6 @@ $$
 
 $$\theta (t) - \theta_o = w \cdot t$$
 
-##
 
 # Relaciones importantes
 
