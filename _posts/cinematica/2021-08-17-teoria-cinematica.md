@@ -1,6 +1,4 @@
 ---
-toc: true
-toc_sticky: true
 title: Cinematica de Particula
 layout: posts
 ---
