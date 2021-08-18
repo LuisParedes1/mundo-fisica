@@ -195,7 +195,6 @@ kramdown:
   auto_ids: true
   footnote_nr: 1
   entity_output: as_char
-  toc: true
   toc_levels: 1..6
   smart_quotes: lsquo,rsquo,ldquo,rdquo
   enable_coderay: false
@@ -284,6 +283,7 @@ defaults:
       share: true
       related: false
       toc: true
+      toc_sticky: true
       sidebar:
         nav: "docs"
  
