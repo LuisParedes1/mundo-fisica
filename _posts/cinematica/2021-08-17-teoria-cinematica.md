@@ -16,10 +16,7 @@ Resumen de cinematica de una particula
 
 # Testing on this post
 
-<script
-  src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"
-  type="text/javascript">
-</script>
+This is an inline equation: $$V_{sphere} = \frac{4}{3}\pi r^3$$,<br>
+followed by a display style equation:
 
-When \(a \ne 0\), there are two solutions to \(ax^2 + bx + c = 0\) and they are
-  \[x = {-b \pm \sqrt{b^2-4ac} \over 2a}.\]
+$$V_{sphere} = \frac{4}{3}\pi r^3$$
