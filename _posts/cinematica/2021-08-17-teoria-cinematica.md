@@ -16,7 +16,12 @@ Resumen de cinematica de una particula
 
 # Testing on this post
 
-This is an inline equation: $$V_{sphere} = \frac{4}{3}\pi r^3$$,<br>
-followed by a display style equation:
+\begin{align}
+  V_{sphere} = \frac{4}{3}\pi r^3 \label{eq:test1}
+\end{align}
 
-$$V_{sphere} = \frac{4}{3}\pi r^3$$
+In Eq. $\eqref{eq:test1}$ you can see...while in Eq. $\eqref{eq:test2}$...
+
+\begin{align}
+  V_{cube} = l w h \label{eq:test2}
+\end{align}
