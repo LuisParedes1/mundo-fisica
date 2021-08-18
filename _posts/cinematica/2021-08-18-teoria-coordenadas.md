@@ -1,4 +1,6 @@
 ---
+toc: true
+toc_sticky: true
 title: Coordenadas
 layout: posts
 ---
@@ -6,11 +8,15 @@ layout: posts
 # Ecuaciones Horarias
 
 $$
+\begin{equation}
     x(t)= x_o + V_o\cdot t + \frac{1}{2} \cdot a \cdot t^2
+\end{equation}
 $$
 
 $$
+\begin{equation}
     v(t)= V_o + a \cdot t 
+\end{equation}
 $$
 
 ## Recordar
@@ -25,8 +31,8 @@ $$
 
 ### IMPORTANTE
 
-- Para poder obtener la posición $\vec{r}_{(t)}$ en un determinado instante $t$, a partir de $\vec{v}_{(t)}$ debo tener la una posicion inicial ($\vec{r}_o$) de referencia, de lo contrario no se puede.
-- Para poder obtener la velocidad $\vec{v}_{(t)}$ en un determinado instante $t$ a partir de $\vec{a}_{(t)}$ debo tener la una velocidad inicial ($\vec{v}_o$) de referencia, de lo contrario no se puede.
+> * Para poder obtener la posición $\vec{r}_{(t)}$ en un determinado instante $t$, a partir de $$\vec{v}_{(t)}$$ debo tener la una posicion inicial ($\vec{r}_o$) de referencia, de lo contrario no se puede.
+- Para poder obtener la velocidad $\vec{v}_{(t)}$ en un determinado instante $t$ a partir de $$\vec{a}_{(t)}$$ debo tener la una velocidad inicial ($\vec{v}_o$) de referencia, de lo contrario no se puede.
 
 ## Otras formulas
 
@@ -34,7 +40,6 @@ $$
 V_f^2 = V_o^2 + 2 \cdot a \cdot x
 $$
 
----
 
 # Ecuaciones Angulares
 
@@ -44,11 +49,11 @@ $\theta (t)$ es el ángulo con respecto del tiempo
 
 ## Velocidad Angular
 
-$w = \frac{d \theta (t)}{dt}$
+$$w = \frac{d \theta (t)}{dt}$$
 
 ## Aceleracion Angular
 
-$\gamma = \frac{d^2 \theta (t)}{dt^2}$
+$$\gamma = \frac{d^2 \theta (t)}{dt^2}$$
 
 ### Calcular la posicion angular a partir de velocidad angular en funcion del tiempo
 
@@ -75,10 +80,23 @@ $$|\vec{v}| = |\vec{\omega}| \times |\vec{r}| \longleftrightarrow v = \omega \cd
 
 ## Aceleracion
 
-$$\vec{a}= ({\gamma} \cdot |r|) \, \hat e_r - (\omega^2 \cdot |r|)\hat e_n$$
+$$
+\begin{equation*}
+    \vec{a}= ({\gamma} \cdot |r|) \, \hat e_r - (\omega^2 \cdot |r|)\hat e_n
+\end{equation*}
+$$
 
-$$\vec{a_t} = {\gamma} \cdot |r| \, \hat e_r$$
-$$\vec{a_c} = - \, \omega^2 \cdot |r| \, \hat e_n$$
+$$
+\begin{equation*}
+    \vec{a_t} = {\gamma} \cdot |r| \, \hat e_r
+\end{equation*}
+$$
+
+$$
+\begin{equation*}
+    \vec{a_c} = - \, \omega^2 \cdot |r| \, \hat e_n
+\end{equation*} 
+$$
 
 * $\vec{a}_t$ aceleracion tangencial
 * $\hat e_r$ versor radial 
