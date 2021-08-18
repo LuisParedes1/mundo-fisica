@@ -1,6 +1,7 @@
 ---
 title: Optica Geometrica
 layout: posts
+toc: true
 ---
 
 Resumen de Optica Geometrica
