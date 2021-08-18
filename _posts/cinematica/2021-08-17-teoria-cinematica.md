@@ -1,5 +1,5 @@
 ---
-title: Cinematica y Dinamica de Cuerpo Rigido
+title: Cinematica de Particula
 layout: posts
 ---
 
