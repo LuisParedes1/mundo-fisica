@@ -1,5 +1,7 @@
 # main links
 main:
+  - title: AcercaDe
+    url: "/_pages/acerca_de"
 
 docs:
   - title: Temas
