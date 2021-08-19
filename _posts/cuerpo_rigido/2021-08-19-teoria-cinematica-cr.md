@@ -7,7 +7,7 @@ layout: posts
 Un sistema es rígido si al considerar dos partículas cualesquiera de él se verifica que la distancia entre dichas partículas es un invariante, sin importar las interacciones externas o internas que soporten las partículas.
 
 
-## Condicion cinemática de rigidez
+# Condicion cinemática de rigidez
 
 Las componentes o proyecciones de las velocidades de A y de B, en la dirección que las une, deben ser iguales.
 

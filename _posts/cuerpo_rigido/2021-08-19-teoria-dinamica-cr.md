@@ -122,3 +122,12 @@ $$
 * Como no hay deslizamiento de una superficie con otra, el desplazamiento del punto de contacto es 0. 
 Por esta razón <mark> el trabajo de la fuerza de rozamiento cuando el cuerpo “rueda sin deslizar” es nulo. </mark>
 * Esto significa que si la única fuerza no conservativa que puede producir trabajo en el sistema es la fuerza de rozamiento, para este caso, se conserva la energía mecánica del sistema.
+
+
+# Referencias Bibliograficas
+
+* [Fisica para estudiantes de Ingenieria - FIUBA - Unidad 6 - Dinámica del cuerpo rígido](https://campus.fi.uba.ar/pluginfile.php/378774/mod_resource/content/1/Unidad%206%20-%20Dinamica%20del%20cuerpo%20rigido%20-%20Rev.01.pdf)
+
+* [Fisica para estudiantes de Ingenieria - FIUBA - Unidad 7 - Dinámica impulsiva del CR](https://campus.fi.uba.ar/pluginfile.php/374415/mod_resource/content/0/Unidad%207%20-%20Din%C3%A1mica%20impulsiva%20del%20CR%20-%20Rev%2002%20.pdf)
+
+* Young-Freedman. Física universitaria Sears Zemansky- Volumen I y II. 12ºedición Pearson Addison Wesley 
