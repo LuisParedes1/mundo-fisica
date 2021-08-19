@@ -13,7 +13,7 @@ $$ f' = \dfrac{\vec{v}_s-\vec{v}_o}{\vec{v}_s-\vec{v}_{f}}f $$
 * $f$ es la frecuencia que emite la fuente.
 * $f'$ es la frecuencia relativa que escucha el observador
 
-* $\vec{v}_s$ siempre es positivo
+* $\vec{v}_s$: siempre es positivo
 * $\vec{v}_o$: El observador puede estar alejandose o acercandose a la fuente
 	* Acercadose: $\vec{v}_o$ negativo (Va en contra del eje $x^+$)
 	* Alejandose: $\vec{v}_o$ positivo 
