@@ -60,6 +60,6 @@ $$E_{pe}= \dfrac{1}{2}kx^2$$
 
 # Referencias Bibliograficas
 
-* [Fisica para estudiantes de Ingenieria - FIUBA - Unidad 2 - Dinámica de la partícula](https://campus.fi.uba.ar/pluginfile.php/345695/mod_resource/content/0/Unidad%203%20-%20Trabajo%20y%20Energ%C3%ADa%20-%20Rev%2001.pdf)
+* [Fisica para estudiantes de Ingenieria - FIUBA - Unidad 3 - Trabajo y Energía](https://campus.fi.uba.ar/pluginfile.php/345695/mod_resource/content/0/Unidad%203%20-%20Trabajo%20y%20Energ%C3%ADa%20-%20Rev%2001.pdf)
 
 * Young-Freedman. Física universitaria Sears Zemansky- Volumen I y II. 12ºedición Pearson Addison Wesley 
