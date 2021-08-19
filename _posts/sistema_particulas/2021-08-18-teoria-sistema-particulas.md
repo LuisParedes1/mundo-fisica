@@ -118,6 +118,7 @@ A partir de $\tau^o_{ext} = \dfrac{d\vec{L}^o_{sist}}{dt}$
 $$\sum \tau^o_{ext} = 0 \longrightarrow \Delta L^o_{sist} =0 $$
 
 **_Observacion_**
+
 El momento angular (Momento Cinetico) puede ser conservado con respecto de un sistema $o$ y no serlo desde otro sistema $o'$. 
 
 Para aplicar el teorema de conservacion del momento angular hay que aclarar con respecto de cual sistema se evalua.
