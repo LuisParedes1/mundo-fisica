@@ -117,20 +117,20 @@ A partir de $\tau^o_{ext} = \dfrac{d\vec{L}^o_{sist}}{dt}$
 
 $$\sum \tau^o_{ext} = 0 \longrightarrow \Delta L^o_{sist} =0 $$
 
-### Observacion
+**_Observacion_**
 El momento angular (Momento Cinetico) puede ser conservado con respecto de un sistema $o$ y no serlo desde otro sistema $o'$. 
 
 Para aplicar el teorema de conservacion del momento angular hay que aclarar con respecto de cual sistema se evalua.
 
 
-### Torque
+# Torque
 
 $$ \vec{\tau}^o_{ext} = \vec{r}_o \times \vec{F} $$
 
 ![8129abfdfe3a8bbc7b18d8fe0f709b5a.png](https://luisparedes1.github.io/mundo-fisica/assets/teoria/04_sistema_particulas/images/8129abfdfe3a8bbc7b18d8fe0f709b5a.png)
 
 
-## Referencias Bibliograficas
+# Referencias Bibliograficas
 
 * [Fisica para estudiantes de Ingenieria - FIUBA - Unidad 4 - Sistema de partículas](https://campus.fi.uba.ar/pluginfile.php/373869/mod_resource/content/0/Unidad%204%20-%20Sistema%20de%20particulas%20Rev.%2002.pdf)
 
