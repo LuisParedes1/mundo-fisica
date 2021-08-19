@@ -109,3 +109,10 @@ $$
 $$\vec{a} = \vec{\gamma} \times \vec{r} + \vec{\omega} \times \vec{\omega} \times \vec{r}$$
 
 * Al hacer el producto vectorial obtengo el vector aceleracion en coordenadas cartesianas.
+
+
+# Referencias Bibliograficas
+
+* [Fisica para estudiantes de Ingenieria - FIUBA - Unidad 1 - Cinemática de la partícula](https://campus.fi.uba.ar/pluginfile.php/342335/mod_resource/content/0/Unidad%201%20-%20Cinem%C3%A1tica%20de%20la%20part%C3%ADcula-2020.pdf)
+
+* Young-Freedman. Física universitaria Sears Zemansky- Volumen I y II. 12ºedición Pearson Addison Wesley 
