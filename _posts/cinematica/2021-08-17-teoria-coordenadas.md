@@ -35,18 +35,18 @@ $$ĕ_r = cos (\theta) \, \hat{i} +  sen(\theta) \, \hat{j}$$
 
 Tenemos que entender que el versor $ĕ_r$ es variable en $\theta$, que es el ángulo que forma el versor con el eje $“+x”$, cuando deseamos transformar la notación polar en notación cartesiana.
 
-![a251a44018a718791e2c7a02d834a88e.png](https://luisparedes1.github.io/mundo-fisica/_posts/cinematica/_resources/d913857302c44037ac00c36ab68ee0dd.png)
+![a251a44018a718791e2c7a02d834a88e.png](https://luisparedes1.github.io/mundo-fisica/assets/teoria/01_cinematica/images/d913857302c44037ac00c36ab68ee0dd.png){: .align-center}
 
 
 El versor $ĕ_θ$ es normal al versor radial, matemáticamente se puede calcular mediante la derivada (usando la regla de la cadena) del versor $ĕ_r$.
 
-![091ceb85f68491c904ecf16e520bbf8f.png](https://luisparedes1.github.io/mundo-fisica/_posts/cinematica/_resources/8a2b309d879643cb862c8cafbe46291e.png)
+![091ceb85f68491c904ecf16e520bbf8f.png](https://luisparedes1.github.io/mundo-fisica/assets/teoria/01_cinematica/images/8a2b309d879643cb862c8cafbe46291e.png){: .align-center}
 
-![b2d8c1f1242c0d95e07a1ad47bc78c9c.png](https://luisparedes1.github.io/mundo-fisica/_posts/cinematica/_resources/fb97555330094d47aaae18f58d78b806.png)
+![b2d8c1f1242c0d95e07a1ad47bc78c9c.png](https://luisparedes1.github.io/mundo-fisica/assets/teoria/01_cinematica/images/fb97555330094d47aaae18f58d78b806.png){: .align-center}
 
 Recordando que el módulo de la velocidad angular $(w)$ es $\frac{d \theta}{dt}$ y llamando a $ĕ_\theta = -sen (\theta) \, \hat{i} +  cos(\theta) \, \hat{j}$
 
-![8a7771aef6b28a6be4dab58642b3e8bf.png](https://luisparedes1.github.io/mundo-fisica/_posts/cinematica/_resources/1918d83c4b9d4310b0dfe898a5fe7399.png)
+![8a7771aef6b28a6be4dab58642b3e8bf.png](https://luisparedes1.github.io/mundo-fisica/assets/teoria/01_cinematica/images/1918d83c4b9d4310b0dfe898a5fe7399.png){: .align-center}
 
 Esta ecuación nos está indicando que la derivada de un versor es perpendicular a dicho versor y además su módulo es igual a la velocidad angular del movimiento del punto que estamos estudiando.
 
@@ -70,7 +70,7 @@ $$ĕ_\theta = -sen (\theta) \, \hat{i} +  cos(\theta) \, \hat{j}$$
 
 Esta propiedad la utilizamos para encontrar el versor tangente y expresar la velocidad de la partícula $“P”$.
 
-![5dc604e10b382b4078dd4f5d295c13f2.png](https://luisparedes1.github.io/mundo-fisica/_posts/cinematica/_resources/447ca84be49a48019a1dc396fe5ec74d.png)
+![5dc604e10b382b4078dd4f5d295c13f2.png](https://luisparedes1.github.io/mundo-fisica/assets/teoria/01_cinematica/images/447ca84be49a48019a1dc396fe5ec74d.png){: .align-center}
 
 $$\vec{v}_{\tiny P-O} = |\vec{v}_{\tiny P-O}|ĕ_t$$
 
@@ -88,7 +88,7 @@ $$ĕ_t = cos (\varphi) \, \hat{i} +  sen(\varphi) \, \hat{j}$$
 
 Otra vez, **como para polares**, en este sistema, se verifica que el ángulo φ, es una variable que se toma desde el eje de abscisas y que depende del tiempo en la medida que se mueve el punto “P”.
 
-![dfe2a7886b0de71d0eaa3bb6ac8dc00a.png](https://luisparedes1.github.io/mundo-fisica/_posts/cinematica/_resources/7a285cf0c5c8493e8ce2958da3bd4690.png)
+![dfe2a7886b0de71d0eaa3bb6ac8dc00a.png](https://luisparedes1.github.io/mundo-fisica/assets/teoria/01_cinematica/images/7a285cf0c5c8493e8ce2958da3bd4690.png){: .align-center}
 
 ## Versores Intrinsecos
 
@@ -104,14 +104,14 @@ $$ĕ_n = -sen (\varphi) \, \hat{i} +  cos(\varphi) \, \hat{j}$$
 
 ### Obtener vectores intrinsecos y normal
 
-![d9c6e444290c8caec7bc59eccc0ff49b.png](https://luisparedes1.github.io/mundo-fisica/_posts/cinematica/_resources/cc80a1a2518d4a4497ca753b4bcc3b72.png)
+![d9c6e444290c8caec7bc59eccc0ff49b.png](https://luisparedes1.github.io/mundo-fisica/assets/teoria/01_cinematica/images/cc80a1a2518d4a4497ca753b4bcc3b72.png){: .align-center}
 
-![89e5dc1edd280a8fc98c77e3c24c342c.png](https://luisparedes1.github.io/mundo-fisica/_posts/cinematica/_resources/941b9e5faee141ed95f403b276fff37a.png)
+![89e5dc1edd280a8fc98c77e3c24c342c.png](https://luisparedes1.github.io/mundo-fisica/assets/teoria/01_cinematica/images/941b9e5faee141ed95f403b276fff37a.png){: .align-center}
 
 
 # Radio de Giro
 
-![ce8c8fd36ddfe94a2a72a4756ad66a20.png](https://luisparedes1.github.io/mundo-fisica/_posts/cinematica/_resources/94cc14242528475e86c61c4b471b9caf.png)
+![ce8c8fd36ddfe94a2a72a4756ad66a20.png](https://luisparedes1.github.io/mundo-fisica/assets/teoria/01_cinematica/images/94cc14242528475e86c61c4b471b9caf.png){: .align-center}
 
 $$a_n = \omega^2 \cdot R_g = \frac{v^2}{R_g}$$
 
