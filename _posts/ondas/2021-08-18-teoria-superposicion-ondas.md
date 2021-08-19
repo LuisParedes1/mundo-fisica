@@ -138,7 +138,7 @@ Una onda estacionaria tiene "n" modos propios o naturales de oscilacion. A cada 
 ### Caso Extremos Fijos
 
 
-![f0978a0f1d5a646ab5ea2f72fd495f0c.png](/assets/teoria/06_ondas/images/1c4c7e332422478aa2b8f2d561573547.png){: .align-center}
+![f0978a0f1d5a646ab5ea2f72fd495f0c.png](https://luisparedes1.github.io/mundo-fisica/assets/teoria/06_ondas/images/1c4c7e332422478aa2b8f2d561573547.png){: .align-center}
 
 Se debe cumplir que 
 
@@ -215,7 +215,7 @@ Notas:
 
 
 ### Caso Extremo Fijo / Libre
-![38f32a3b24e9a630e4d022d04263f5a2.png](/assets/teoria/06_ondas/images/3e09058bd29d4f02ad959bafd5e7f5ef.png){: .align-center}
+![38f32a3b24e9a630e4d022d04263f5a2.png](https://luisparedes1.github.io/mundo-fisica/assets/teoria/06_ondas/images/3e09058bd29d4f02ad959bafd5e7f5ef.png){: .align-center}
 
 * En $x=0$, el extremo esta fijo $Y(0,t)=0$
 * En $x=L$, el extremo esta suelto, tal que se puede obtener un maximo.

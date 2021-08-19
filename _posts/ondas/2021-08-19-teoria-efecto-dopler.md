@@ -5,7 +5,7 @@ layout: posts
 
 Poniendo el sistema de referencia siempre <mark>desde la fuente hacia el observador</mark> en sentido positivo.
 
-![1e51ba2124300b89ef3593b879039c6f.png](https://luisparedes1.github.io/mundo-fisica/assets/teoria/06_ondas/images/699d4467be784bdba72e6370bc82d225.png)
+![1e51ba2124300b89ef3593b879039c6f.png](https://luisparedes1.github.io/mundo-fisica/assets/teoria/06_ondas/images/699d4467be784bdba72e6370bc82d225.png){: .align-center}
 
 $$ f' = \dfrac{\vec{v}_s-\vec{v}_o}{\vec{v}_s-\vec{v}_{f}}f $$
 
