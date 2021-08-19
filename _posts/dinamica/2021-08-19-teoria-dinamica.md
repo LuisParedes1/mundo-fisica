@@ -56,11 +56,11 @@ $$\vec{J} = \Delta \vec{p}$$
 
 > Si una partícula A interactúa con una partícula B aplicándole una fuerza $\vec{F}$, entonces la partícula B interactúa con A aplicándole una fuerza $\vec{F'}$ con el mismo módulo y la misma dirección que $\vec{F}$, pero de sentido contrario
 
-![b3eec4daee1bca9c4a56caa54846d71a.png](/assets/teoria/02_dinamica/images/d9afea3d733a4cc1aae6923351d0de9d.png){: .align-center}
+![b3eec4daee1bca9c4a56caa54846d71a.png](https://luisparedes1.github.io/mundo-fisica/assets/teoria/02_dinamica/images/d9afea3d733a4cc1aae6923351d0de9d.png){: .align-center}
 
 Las fuerzas, en consecuencia, surgen siempre de a pares, se trata de **pares de interacción.**
 
-![6d8d97d8237288742df572ebcc46e71e.png](/assets/teoria/02_dinamica/images/215fcb70302d4efcad16addb6499b092.png){: .align-center}
+![6d8d97d8237288742df572ebcc46e71e.png](https://luisparedes1.github.io/mundo-fisica/assets/teoria/02_dinamica/images/215fcb70302d4efcad16addb6499b092.png){: .align-center}
 
 En la figura se encuentras las fuerzas
 
@@ -71,8 +71,8 @@ Notar que **las fuerzas se aplican sobre cuerpos diferentes**.
 
 # Ejemplos
 
-![c8bbdce7a634d7fec3f87f54b5b3ccff.png](/assets/teoria/02_dinamica/images/5fa9337623ad4a7a94662c7c76994ee5.png){: .align-center}
+![c8bbdce7a634d7fec3f87f54b5b3ccff.png](https://luisparedes1.github.io/mundo-fisica/assets/teoria/02_dinamica/images/5fa9337623ad4a7a94662c7c76994ee5.png){: .align-center}
 
-![e3ed1ab8edd48185512488d5546ad3b3.png](/assets/teoria/02_dinamica/images/afbd0c8c1b114594a47d7666fb1e29ec.png){: .align-center}
+![e3ed1ab8edd48185512488d5546ad3b3.png](https://luisparedes1.github.io/mundo-fisica/assets/teoria/02_dinamica/images/afbd0c8c1b114594a47d7666fb1e29ec.png){: .align-center}
 
 >Un error frecuente es considerar que la Normal y el Peso (P) conforman un par de interacción; sin embargo, como la Normal es una fuerza que la ***superficie ejerce sobre la caja*** su par de interacción será una fuerza que la ***caja ejerce sobre la superficie***, y está por lo tanto aplicada sobre esta última.
