@@ -50,8 +50,6 @@ Recordando que el módulo de la velocidad angular $(w)$ es $\frac{d \theta}{dt}$
 
 Esta ecuación nos está indicando que la derivada de un versor es perpendicular a dicho versor y además su módulo es igual a la velocidad angular del movimiento del punto que estamos estudiando.
 
-##
-
 ## Versores Polares
 
 $$ĕ_r = cos (\theta) \, \hat{i} +  sen(\theta) \, \hat{j}$$
@@ -62,7 +60,6 @@ $$ĕ_\theta = -sen (\theta) \, \hat{i} +  cos(\theta) \, \hat{j}$$
 * $\frac{d ĕ_r}{dt} = w \, ĕ_\theta$
 * $ĕ_r$ es un versor que acompañará la posición del punto material.
 
-##
 
 # Coordenadas Intrinsecas
 
@@ -70,7 +67,7 @@ $$ĕ_\theta = -sen (\theta) \, \hat{i} +  cos(\theta) \, \hat{j}$$
 
 Esta propiedad la utilizamos para encontrar el versor tangente y expresar la velocidad de la partícula $“P”$.
 
-![5dc604e10b382b4078dd4f5d295c13f2.png](https://luisparedes1.github.io/mundo-fisica/assets/teoria/01_cinematica/images/447ca84be49a48019a1dc396fe5ec74d.png){: .align-center}
+![5dc604e10b382b4078dd4f5d295c13f2.png](https://luisparedes1.github.io/mundo-fisica/assets/teoria/01_cinematica/images/447ca84be49a48019a1dc396fe5ec74d.png){: .align-right}
 
 $$\vec{v}_{\tiny P-O} = |\vec{v}_{\tiny P-O}|ĕ_t$$
 
@@ -78,13 +75,13 @@ El versor tangente, es el vector velocidad dividido por su módulo.
 
 $$ĕ_t = \frac{\vec{v}_{\tiny P-O}}{|\vec{v}_{\tiny P-O}|}$$
 
-* $|\vec{v}_{\tiny P-O}|$ : es el módulo del vector velocidad.
+* $\mid \vec{v}_{\tiny P-O} \mid$ : es el módulo del vector velocidad.
 * $ĕ_t$ : es el versor tangencial a la trayectoria o versor tangente.
 
 La expresión en coordenadas cartesianas de este versor es: 
 $$ĕ_t = cos (\varphi) \, \hat{i} +  sen(\varphi) \, \hat{j}$$
 
-##
+
 
 Otra vez, **como para polares**, en este sistema, se verifica que el ángulo φ, es una variable que se toma desde el eje de abscisas y que depende del tiempo en la medida que se mueve el punto “P”.
 
@@ -100,7 +97,6 @@ $$ĕ_n = -sen (\varphi) \, \hat{i} +  cos(\varphi) \, \hat{j}$$
 * $\frac{d ĕ_t}{dt} = w \, ĕ_n$
 * $ĕ_t$ es un versor **tangente a la trayectoria**, por tanto tiene la misma dirección que la velocidad en ese instante $\vec{v}_{\tiny P-O}$
 
-##
 
 ### Obtener vectores intrinsecos y normal
 
