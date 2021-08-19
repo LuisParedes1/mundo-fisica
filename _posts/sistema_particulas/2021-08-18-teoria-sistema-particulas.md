@@ -123,7 +123,7 @@ El momento angular (Momento Cinetico) puede ser conservado con respecto de un si
 Para aplicar el teorema de conservacion del momento angular hay que aclarar con respecto de cual sistema se evalua.
 
 
-### Torque
+# Torque
 
 $$ \vec{\tau}^o_{ext} = \vec{r}_o \times \vec{F} $$
 
