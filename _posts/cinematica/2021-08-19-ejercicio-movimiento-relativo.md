@@ -17,7 +17,7 @@ Este problema debemos tener muy presente los temas:
 
 ## Video Resolucion
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/USHt-mfBER4" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qKFL5h_b9Rw" frameborder="0" allowfullscreen></iframe>
 
 ## Texto
 
