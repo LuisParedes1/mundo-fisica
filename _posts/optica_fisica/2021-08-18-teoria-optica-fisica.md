@@ -10,7 +10,7 @@ Resumen Optica Fisica
 * Se trabaja en un medio monocromatico, es decir la frecuencia es constante en el tiempo.
 * La diferencia de fase se mantiene constante en el tiempo. ($\Delta \varphi = Const$)
 
-> Cuando dos o mas ondas monocromaticas se propagan manteniendo una diferencia de fase constante durante el tiempo de observacion, se dice que las oscilaciones son <mark>**coherentes**<\mark>
+> Cuando dos o mas ondas monocromaticas se propagan manteniendo una diferencia de fase constante durante el tiempo de observacion, se dice que las oscilaciones son <mark>coherentes</mark>
 
 ## Interferencia
 
