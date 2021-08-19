@@ -1,5 +1,5 @@
 ---
-title: Dinamica de la Particula 2
+title: Dinamica de la Particula
 layout: posts
 ---
 
