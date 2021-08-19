@@ -336,3 +336,8 @@ $$\beta = 10 \log{\frac{I}{I_o}}$$
 * $I$ Intensidad relativo
 * $I_o = 10^{-12}\frac{W}{m^2}$: Intensidad minima audible por el odio humano
 
+# Referencias Bibliograficas
+
+* [Fisica para estudiantes de Ingenieria - FIUBA - Unidad  9 - Ondas Mecánicas](https://campus.fi.uba.ar/pluginfile.php/384421/mod_resource/content/1/Unidad%209%20-%20Ondas%20mec%C3%A1nicas%20-%20Rev.01.pdf)
+
+* Alonso y Finn. Física. Volumen I (Mecánica) y II (Campos y ondas). Addison Wesley Longman.
