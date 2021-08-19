@@ -1,7 +1,9 @@
 ---
-title: Coordenadas
+title: Cinematica
 layout: posts
 ---
+
+Resumen de Cinematica de la Particula
 
 # Ecuaciones Horarias
 
