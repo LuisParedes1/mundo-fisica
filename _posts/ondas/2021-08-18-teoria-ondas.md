@@ -91,7 +91,7 @@ La velocidad de propagacion de onda solo dependen del tipo de onda y del medio e
 
 ## Fase de Onda
 
-Se define como el conjunto de puntos del espacio que vibran en "fase", es decir con la misma elogacion, velocidad y aceleracion.
+Se define como el conjunto de puntos del espacio que vibran en "fase", es decir con la misma elongacion, velocidad y aceleracion.
 
 La fase es el argumento de la funcion sinusoidal
 
