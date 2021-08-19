@@ -28,6 +28,6 @@ Donde $\vec{a}_{sist}$ es  la  aceleración  del  sistema  de  referencia  no  i
 
 # Referencias Bibliograficas
 
-* [Fisica para estudiantes de Ingenieria - FIUBA - Unidad 2 - Dinámica de la partícula](https://campus.fi.uba.ar/pluginfile.php/342336/mod_resource/content/0/Unidad%202%20-%20Din%C3%A1mica%20de%20la%20part%C3%ADcula%20-%202020.pdf)
+* [Fisica para estudiantes de Ingenieria - FIUBA - Unidad 2 - Dinámica de la partícula](https://campus.fi.uba.ar/pluginfile.php/342337/mod_resource/content/0/Sistemas%20de%20Referencia%20No%20Inerciales%20-%202020.pdf)
 
 * Young-Freedman. Física universitaria Sears Zemansky- Volumen I y II. 12ºedición Pearson Addison Wesley 
