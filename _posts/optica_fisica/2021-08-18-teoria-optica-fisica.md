@@ -22,7 +22,7 @@ Superposicion de dos o mas ondas de igual frecuencia y longitud de onda que se p
 
 Supongamos tener dos fuentes monocromáticas $S_1$ y $S_2$, separadas una distancias $r_1$ y $r_2$ respectivamente de un punto P de observación. 
 
-![a7b86e842b643110460005117f3653fc.png](/assets/teoria/07_optica_fisica/images/e5b3d8ce45fa4136a5cd710228e3c6e6.png){: .align-center}
+![a7b86e842b643110460005117f3653fc.png](https://luisparedes1.github.io/mundo-fisica/assets/teoria/07_optica_fisica/images/e5b3d8ce45fa4136a5cd710228e3c6e6.png){: .align-center}
 
 ¿Cuál es la diferencia de fase que podemos detectar en P?
 
@@ -66,14 +66,14 @@ Como resultado observaremos en P luz u oscuridad, constantemente en el tiempo.
 
 # Experimento de Young
 
-![5f9990959fe246f5d888b7635d5bc890.png](/assets/teoria/07_optica_fisica/images/4ba385a4243146bda3c9940bc0a5e26f.png){: .align-center}
+![5f9990959fe246f5d888b7635d5bc890.png](https://luisparedes1.github.io/mundo-fisica/assets/teoria/07_optica_fisica/images/4ba385a4243146bda3c9940bc0a5e26f.png){: .align-center}
 
 ## Consecuencias
 
 * Las fases iniciales son las mismas para todas las ondas secuendarias y esta constancia se mantiene durante todo el tiempo. $\Delta \phi = 0$ .
 * Las otras caracteristicas de las ondas secundarias (amplitud, longitud de onda, frecuencia, plano de vibracion) son invariantes en el tiempo.
 
-![80b47386c1e32045523e577ac09c2c5b.png](/assets/teoria/07_optica_fisica/images/cdeec7c75df74300808825e6c633885e.png){: .align-center}
+![80b47386c1e32045523e577ac09c2c5b.png](https://luisparedes1.github.io/mundo-fisica/assets/teoria/07_optica_fisica/images/cdeec7c75df74300808825e6c633885e.png){: .align-center}
 
 $$
 \begin{equation}
@@ -165,7 +165,7 @@ $I_{MAX} = N^2 I_o$
 
 
 
-![51625fbcf631ac816f991ce8b21f21d7.png](/assets/teoria/07_optica_fisica/images/cc9c05b6edb0403e876589b94c1c5404.png){: .align-center}
+![51625fbcf631ac816f991ce8b21f21d7.png](https://luisparedes1.github.io/mundo-fisica/assets/teoria/07_optica_fisica/images/cc9c05b6edb0403e876589b94c1c5404.png){: .align-center}
 
 ### Propiedades
 
@@ -188,7 +188,7 @@ $$\Delta Y = \dfrac{\lambda D}{d} $$
 
 En la difraccion cada ranura tiene un ancho considerable. Si es lo suficientemente estrecha, los infinitos puntos que salen de $a$ inciden en un punto de la difraccion.
 
-![9462e6eacb434828b4d48516ddeae2f1.png](/assets/teoria/07_optica_fisica/images/557516d9f11242d984ba7b001e5c66dc.png){: .align-center}
+![9462e6eacb434828b4d48516ddeae2f1.png](https://luisparedes1.github.io/mundo-fisica/assets/teoria/07_optica_fisica/images/557516d9f11242d984ba7b001e5c66dc.png){: .align-center}
 
 Llamando al ancho $a = Nd$, se puede asimilar al caso de interferencia de N fuentes punturales coherentes separadas una distancia d.
 
@@ -206,7 +206,7 @@ $$sen\theta = \lambda/b$$
 
 En el caso de $m = 0$, se tiene el maximo central de difraccion (campana de difraccion) y tiene como ancho $2 \frac{\lambda D}{a}$ , el cual es un maximo absoluto que no puede ser alcanzado por ningun otro punto de la pantalla.
 
-![a771fc3ce6b85bc6e4b9ab12e7cdf62f.png](/assets/teoria/07_optica_fisica/images/6044aaf634034305afa62e2f88649a6d.png){: .align-center}
+![a771fc3ce6b85bc6e4b9ab12e7cdf62f.png](https://luisparedes1.github.io/mundo-fisica/assets/teoria/07_optica_fisica/images/6044aaf634034305afa62e2f88649a6d.png){: .align-center}
 
 # Intensidad
 
@@ -261,7 +261,7 @@ El ancho de los máximos principales es como en el fenómeno de interferencia de
 
 Es decir, cuanto mayor sea el número de ranuras, más angostos serán los máximos principales.
 
-![56adcefeb606230996ca1747d097262a.png](/assets/teoria/07_optica_fisica/images/3fe0f08c3df147fe8d016bd646b5c7f9.png){: .align-center}
+![56adcefeb606230996ca1747d097262a.png](https://luisparedes1.github.io/mundo-fisica/assets/teoria/07_optica_fisica/images/3fe0f08c3df147fe8d016bd646b5c7f9.png){: .align-center}
 
 ## Intensidad
 
