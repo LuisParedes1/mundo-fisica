@@ -20,3 +20,7 @@ $$ f' = \dfrac{\vec{v}_s-\vec{v}_o}{\vec{v}_s-\vec{v}_{f}}f $$
 * $\vec{v}_f$: La fuente puede estar alejandose o acercandose al observador
 	* Acercadose: $\vec{v}_f$ positivo
 	* Negativo: $\vec{v}_f$ Negativo (Va en contra del eje $x^+$)
+
+# Referencias Bibliograficas
+
+* Alonso y Finn. Física. Volumen I (Mecánica) y II (Campos y ondas). Addison Wesley Longman.
