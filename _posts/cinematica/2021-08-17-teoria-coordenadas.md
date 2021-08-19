@@ -19,7 +19,6 @@ $$ | \vec{r}_{\tiny P-O}| = \sqrt{(x_p)^2 + (y_p)^2 + (z_p)^2} $$
 
 $x_{\tiny P} \, , y_{\tiny P} \, , z_{\tiny P}$ : son coordenadas del punto, y que variarán en función del tiempo en la medida que la partícula se mueva.
 
-##
 
 # Coordenadas Polares
 
