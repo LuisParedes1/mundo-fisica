@@ -5,7 +5,7 @@ layout: posts
 
 Este problema debemos tener muy presente los temas:
 
-* Posicion de una particula en el espacio
+* Posicion de una particula en el espacio [^1]
 * Transformacion de Galileo
 
 
@@ -27,3 +27,5 @@ Este problema debemos tener muy presente los temas:
 Nota: Al comprar el dominio deberia arreglarse este problema
 <embed src="/assets/guias/cuerpo_rigido/ej17.pdf#page=1" type="application/pdf" width="100%" height="100%">
 -->
+
+[^1]: [Teoria de Posicion de particula en el espacio](https://luisparedes1.github.io/mundo-fisica/teoria-coordenadas/#coordenadas-cartesianas)
