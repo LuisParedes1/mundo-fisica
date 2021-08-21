@@ -3,8 +3,6 @@ title: Redes de Difraccion
 layout: posts
 ---
 
-# Redes de Difraccion
-
 En una red de difraccion se superponene los fenómenos de interferencia y difraccion.
 
 Una red de difracción plana está constituida por un gran número de ranuras iguales (mismo ancho $a$) y equidistantes (una distancia $d$) en un mismo plano. Cada ranura se denomina raya o línea de la red.
