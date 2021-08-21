@@ -24,7 +24,7 @@ Usando esto en la primera fórmula se llega a
 
 $$d\frac{Y}{D}=n \lambda$$
 
-![Experimento de Young gráfico.jpg](/assets/teoria/07_optica_fisica/images/7c4f418a783342bea4aec673fe201b06.jpg){: .align-center}
+![Experimento de Young gráfico.jpg](https://luisparedes1.github.io/mundo-fisica/assets/teoria/07_optica_fisica/images/7c4f418a783342bea4aec673fe201b06.jpg){: .align-center}
 
 En el anterior gráfico te muestro que significa cada símbolo en la fórmula ($\lambda$ es la longitud de onda).
 Con esas dos fórmulas se pueden resolver prácticamtne todos los ejercicios de interferencia.
