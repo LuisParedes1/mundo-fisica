@@ -270,7 +270,7 @@ $$
 
 
 
-![f4f65c8bf4d058cb964ffa470c16d6c2.png](/assets/teoria/06_ondas/images/f277f113cefc41bca287b8427cea0799.png){: .align-center}
+![f4f65c8bf4d058cb964ffa470c16d6c2.png](https://luisparedes1.github.io/mundo-fisica/assets/teoria/06_ondas/images/f277f113cefc41bca287b8427cea0799.png){: .align-center}
 
 * La intensidad de la onda es inversamente proporcional al cuadrado de la distancia al generador.
 
@@ -289,7 +289,7 @@ $$\frac{A_1}{A_2} = \frac{R_2}{R_1}$$
 Las ondas sonoras son ondas de compresión longitudinales en un medio material.
 
 
-![7f3a4865d3115ecff2dddba8ed18cf2d.png](/assets/teoria/06_ondas/images/7caebc554c644a62bd43452cc58f252f.png){: .align-center}
+![7f3a4865d3115ecff2dddba8ed18cf2d.png](https://luisparedes1.github.io/mundo-fisica/assets/teoria/06_ondas/images/7caebc554c644a62bd43452cc58f252f.png){: .align-center}
 
 > Los puntos muestran la posición de moléculas de aire. Cada punto tiene distinta presion
 

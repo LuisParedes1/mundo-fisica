@@ -13,20 +13,20 @@ Poniendo el sistema de referencia en el **vertice de la dioptra**, y poniendo el
 > Eje x positivo en el sentido contrario a la luz incidente
 
 
-![1a43a01fc27be228ed099494dc9fb545.png](/assets/teoria/08_optica_geometrica/images/586e144649f04df3b9757c04c92b907d.png){: .align-center}
+![1a43a01fc27be228ed099494dc9fb545.png](https://luisparedes1.github.io/mundo-fisica/assets/teoria/08_optica_geometrica/images/586e144649f04df3b9757c04c92b907d.png){: .align-center}
 
 
 ## Dioptras
 
 Las dioptras son superficies que separan dos medios isotropos, con indice de refraccion $n_1$ y $n_2$
 
-![88359fc8641bf08845d2fd0d8370bbab.png](/assets/teoria/08_optica_geometrica/images/80e3f58d52774bc996f65dfdc0f2afc9.png){: .align-center}
+![88359fc8641bf08845d2fd0d8370bbab.png](https://luisparedes1.github.io/mundo-fisica/assets/teoria/08_optica_geometrica/images/80e3f58d52774bc996f65dfdc0f2afc9.png){: .align-center}
 
 Cuando el rayo atraviesa la dioptra, se utiliza la ley de Snell [^1] para determinar el angulo con que sale, asi determinar si se trata de una dioptra **convergente** o **divergente**.
 
-![347f1e8463e7f86b0a41b8dcf05db98f.png](/assets/teoria/08_optica_geometrica/images/630fa6419b914585ba7cf854c9875199.png){: .align-center}
+![347f1e8463e7f86b0a41b8dcf05db98f.png](https://luisparedes1.github.io/mundo-fisica/assets/teoria/08_optica_geometrica/images/630fa6419b914585ba7cf854c9875199.png){: .align-center}
 
-![c891b402c900e6b607d57f46a00d9eca.png](/assets/teoria/08_optica_geometrica/images/8f08c208d5c6455dad08d6369dbae60a.png){: .align-center}
+![c891b402c900e6b607d57f46a00d9eca.png](https://luisparedes1.github.io/mundo-fisica/assets/teoria/08_optica_geometrica/images/8f08c208d5c6455dad08d6369dbae60a.png){: .align-center}
 
 > Observar que lo unico que cambio en los ejemplos es el indice de refraccion. Por lo tanto este determina si es convergente o divergente.
 
@@ -52,7 +52,7 @@ $$s = f \, \, \, ,\, \, \, s' = \infty$$
 * El rayo que pasa por el centro de la dioptra esferica no cambia de direccion
 * El rayo que pasa por el vertice tienen como recta normal al eje optico. Con este hallo, usando la ley de Snell [^1], el angulo de desviacion
 
-![f676f71f976208345a8fb3a931032e1f.png](/assets/teoria/08_optica_geometrica/images/9390e4944ee44858bc0fe48108ee71b3.png){: .align-center}
+![f676f71f976208345a8fb3a931032e1f.png](https://luisparedes1.github.io/mundo-fisica/assets/teoria/08_optica_geometrica/images/9390e4944ee44858bc0fe48108ee71b3.png){: .align-center}
 
 ## Otras Opciones
 * Un rayo que pase paralelo al eje optico "proviene del infinito" y pasa por el foco imagen.

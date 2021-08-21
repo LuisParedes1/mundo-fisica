@@ -11,7 +11,7 @@ Poniendo el sistema de referencia en el **vertice del espejo**, y poniendo el se
 
 > Convención utilizada: eje x positivo en el sentido contrario a la luz incidente
 
-![356ba6a858ac54703d13ad274f42b4a6.png](/assets/teoria/08_optica_geometrica/images/4f7bf5dad2ce41adb740fb23a95bfd4f.png)
+![356ba6a858ac54703d13ad274f42b4a6.png](https://luisparedes1.github.io/mundo-fisica/assets/teoria/08_optica_geometrica/images/4f7bf5dad2ce41adb740fb23a95bfd4f.png)
 
 # Ecuacion para espejos
 
@@ -62,7 +62,7 @@ Siendo
 
 	* En cambio si lo que pasan son las **_prolongaciones_** de los rayos, que indican la dirección del haz, la imagen o el objeto se llaman ***virtuales***.
 
-![0084430bb5c0e75eb76f5b628efbd696.png](/assets/teoria/08_optica_geometrica/images/f17869e2f556409ab880f5a45c56241c.png)
+![0084430bb5c0e75eb76f5b628efbd696.png](https://luisparedes1.github.io/mundo-fisica/assets/teoria/08_optica_geometrica/images/f17869e2f556409ab880f5a45c56241c.png)
 
 * El objeto virtual se puede obtener como la prologancion de los **rayos incidentes**
 * La imagen virtual se puede obtener como la prologancion de los **rayos reflejados**
@@ -84,15 +84,15 @@ $$s = \infty \, \, \, ,\, \, \, s' = f'$$
 
 ## Planos
 
-![b112e7bea3abdd0a967904220a3322af.png](/assets/teoria/08_optica_geometrica/images/8851ed7203ae45929fb9ed8886bdc4e6.png)
+![b112e7bea3abdd0a967904220a3322af.png](https://luisparedes1.github.io/mundo-fisica/assets/teoria/08_optica_geometrica/images/8851ed7203ae45929fb9ed8886bdc4e6.png)
 
 ## Concavos
-![6700ed67cb029e0d5de743ffc90feec1.png](/assets/teoria/08_optica_geometrica/images/b5931f50b2694033ab0b3c5b083732d7.png)
+![6700ed67cb029e0d5de743ffc90feec1.png](https://luisparedes1.github.io/mundo-fisica/assets/teoria/08_optica_geometrica/images/b5931f50b2694033ab0b3c5b083732d7.png)
 
 > Observar que el foco objeto es positivo
 
 ## Convexos
- ![5021ff0f7ad5a9ada550a1e4a81b138f.png](/assets/teoria/08_optica_geometrica/images/06f44385ed274d9cb21bf6c8c2ba8f63.png)
+ ![5021ff0f7ad5a9ada550a1e4a81b138f.png](https://luisparedes1.github.io/mundo-fisica/assets/teoria/08_optica_geometrica/images/06f44385ed274d9cb21bf6c8c2ba8f63.png)
  
 > Observar que el foco objeto es negativo 
 
@@ -105,7 +105,7 @@ $$s = \infty \, \, \, ,\, \, \, s' = f'$$
 
 * La interseccion de sus rectas (la recta original o las prolongaciones) es la formacion de la imagen.
 
-![356ba6a858ac54703d13ad274f42b4a6.png](/assets/teoria/08_optica_geometrica/images/4f7bf5dad2ce41adb740fb23a95bfd4f.png)
+![356ba6a858ac54703d13ad274f42b4a6.png](https://luisparedes1.github.io/mundo-fisica/assets/teoria/08_optica_geometrica/images/4f7bf5dad2ce41adb740fb23a95bfd4f.png)
 
 
 # Casos
