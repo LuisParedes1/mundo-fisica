@@ -24,7 +24,7 @@ Llamando al ancho $b = Nd$, se puede asimilar al caso de interferencia de N fuen
 
 $$
 \begin{equation}
-	Y_{\tiny Min} = \dfrac{m\lambda D}{Nd} = \dfrac{n\lanbda D}{b	} \, \, \, \, \, n \in \mathbb{Z}
+	Y_{\tiny Min} = \dfrac{m\lambda D}{Nd} = \dfrac{n\lambda D}{b} \, \, \, \, \, n \in \mathbb{Z}
 \end{equation}
 $$
 
