@@ -14,21 +14,21 @@ Resumen Difracción
 
 # Difraccion
 
-En la difraccion cada ranura tiene un ancho considerable. Si es lo suficientemente estrecha, los infinitos puntos que salen de $a$ inciden en un punto de la difraccion.
+En la difraccion cada ranura tiene un ancho considerable. Si es lo suficientemente estrecha, los infinitos puntos que salen de $b$ inciden en un punto de la difraccion.
 
 ![9462e6eacb434828b4d48516ddeae2f1.png](https://luisparedes1.github.io/mundo-fisica/assets/teoria/07_optica_fisica/images/557516d9f11242d984ba7b001e5c66dc.png){: .align-center}
 
-Llamando al ancho $a = Nd$, se puede asimilar al caso de interferencia de N fuentes punturales coherentes separadas una distancia d.
+Llamando al ancho $b = Nd$, se puede asimilar al caso de interferencia de N fuentes punturales coherentes separadas una distancia d.
 
 ## Minimos de Difraccion
 
 $$
 \begin{equation}
-	Y_{\tiny Min} = \dfrac{m\lambda D}{Nd} = \dfrac{n\lanbda D}{a} \, \, \, \, \, n \in \mathbb{Z}
+	Y_{\tiny Min} = \dfrac{m\lambda D}{Nd} = \dfrac{n\lanbda D}{b	} \, \, \, \, \, n \in \mathbb{Z}
 \end{equation}
 $$
 
-* n: Puede ser cualquier numero entero (menos el cero) no multiplo de N.
+* $n$: Puede ser cualquier numero entero (menos el cero) no multiplo de N.
 
 Tambien se puede interpretar como
 
@@ -42,7 +42,7 @@ $$
 \end{equation}
 $$
 
-* b: ancho de cada rendija
+* $b$: ancho de cada rendija
 
 En el caso de $n = 0$, se tiene el maximo central de difraccion (campana de difraccion) y tiene como ancho $2 \frac{\lambda D}{b}$ , el cual es un maximo absoluto que no puede ser alcanzado por ningun otro punto de la pantalla.
 
