@@ -1,5 +1,5 @@
 ---
-title: Lentes Delgados
+title: Espejos
 layout: posts
 ---
 
@@ -117,3 +117,7 @@ Siempre hacer el camino de rayos para asegurarse que el resultado tenga sentido.
 Observar esta pagina para enterder las distintas imagenes que se forman en un lente concavo: [Espejos Concavos](http://teleformacion.edu.aytolacoruna.es/FISICA/document/fisicaInteractiva/OptGeometrica/EspejoPlano/EspejoCurvo/EspejosConcFormaImag.htm)
 
 Observar esta pagina para enterder las distintas imagenes que se forman en un lente convexo: [Espejos Convexos](http://teleformacion.edu.aytolacoruna.es/FISICA/document/fisicaInteractiva/OptGeometrica/EspejoPlano/EspejoCurvo/EspejoConvexoFormImagenes.htm)
+
+# Referencias Bibliograficas
+
+* [Fisica para estudiantes de Ingenieria - FIUBA - Unidad  10 - Óptica Geométrica](https://campus.fi.uba.ar/pluginfile.php/375387/mod_resource/content/1/Unidad%2010%20-%20Optica%20Geometrica%20Rev.01.pdf)

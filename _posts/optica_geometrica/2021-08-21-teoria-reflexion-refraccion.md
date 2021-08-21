@@ -102,3 +102,8 @@ $$
 >  Tambien:
 >  $2\theta_1=\gamma + \delta_{min}$
 > cuando $\theta_4 = \theta_1$, porque es la condicion de minimo de desviacion.
+
+
+# Referencias Bibliograficas
+
+* [Fisica para estudiantes de Ingenieria - FIUBA - Unidad  10 - Óptica Geométrica](https://campus.fi.uba.ar/pluginfile.php/375387/mod_resource/content/1/Unidad%2010%20-%20Optica%20Geometrica%20Rev.01.pdf)
