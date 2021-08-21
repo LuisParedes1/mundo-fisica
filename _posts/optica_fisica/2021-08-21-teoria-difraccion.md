@@ -22,17 +22,29 @@ Llamando al ancho $a = Nd$, se puede asimilar al caso de interferencia de N fuen
 
 ## Minimos de Difraccion
 
-
 $$
-Y_{\tiny Min} = \dfrac{m\lambda D}{Nd} = \dfrac{m\lambda D}{a} \, \, \, \, \, m \in \mathbb{Z}
+\begin{equation}
+	Y_{\tiny Min} = \dfrac{m\lambda D}{Nd} = \dfrac{n\lanbda D}{a} \, \, \, \, \, n \in \mathbb{Z}
+\end{equation}
 $$
 
-m: Puede ser cualquier numero entero (menos el cero) no multiplo de N.
+* n: Puede ser cualquier numero entero (menos el cero) no multiplo de N.
+
+Tambien se puede interpretar como
+
+
+
 
 ## Onda destructiva
-$$sen\theta = \lambda/b$$
+$$ 
+\begin{equation}
+	b sen\theta = n \lambda
+\end{equation}
+$$
 
-En el caso de $m = 0$, se tiene el maximo central de difraccion (campana de difraccion) y tiene como ancho $2 \frac{\lambda D}{a}$ , el cual es un maximo absoluto que no puede ser alcanzado por ningun otro punto de la pantalla.
+* b: ancho de cada rendija
+
+En el caso de $n = 0$, se tiene el maximo central de difraccion (campana de difraccion) y tiene como ancho $2 \frac{\lambda D}{b}$ , el cual es un maximo absoluto que no puede ser alcanzado por ningun otro punto de la pantalla.
 
 ![a771fc3ce6b85bc6e4b9ab12e7cdf62f.png](https://luisparedes1.github.io/mundo-fisica/assets/teoria/07_optica_fisica/images/6044aaf634034305afa62e2f88649a6d.png){: .align-center}
 
