@@ -110,6 +110,10 @@ $$s = \infty \, \, \, ,\, \, \, s' = f'$$
 
 # Casos
 
-Los distintos casos se dan de acuerdo a la posicion del objeto con respecto al foco objeto.
+Los distintos casos se dan de acuerdo a la posicion del objeto con respecto al foco objeto. Recordar que el foco objeto cambia de signo para lentes convergentes y divergentes. 
+
+Siempre hacer el camino de rayos para asegurarse que el resultado tenga sentido.
 
 Observar esta pagina para enterder las distintas imagenes que se forman en un lente concavo: [Espejos Concavos](http://teleformacion.edu.aytolacoruna.es/FISICA/document/fisicaInteractiva/OptGeometrica/EspejoPlano/EspejoCurvo/EspejosConcFormaImag.htm)
+
+Observar esta pagina para enterder las distintas imagenes que se forman en un lente convexo: [Espejos Convexos](http://teleformacion.edu.aytolacoruna.es/FISICA/document/fisicaInteractiva/OptGeometrica/EspejoPlano/EspejoCurvo/EspejoConvexoFormImagenes.htm)
