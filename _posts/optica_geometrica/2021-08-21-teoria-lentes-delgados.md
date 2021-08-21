@@ -8,7 +8,7 @@ Lentes Delgados
 
 # Tipos de Lentes Delgados
 
-![c485f8e3d42675f36c06c1cb3c53a3d9.png](/assets/teoria/08_optica_geometrica/images/70caf10b688448529c72bbb014616d06.png){: .align-center}
+![c485f8e3d42675f36c06c1cb3c53a3d9.png](https://luisparedes1.github.io/mundo-fisica/assets/teoria/08_optica_geometrica/images/70caf10b688448529c72bbb014616d06.png){: .align-center}
 
 
 Nota (En general): 
@@ -21,7 +21,7 @@ Nota (En general):
 * Concavo-Convexo
 
 
-![47da7f28cf78aa616e451f6f7d77071e.png](/assets/teoria/08_optica_geometrica/images/58289c8fe1bc4720a870f0baaa1f4691.png){: .align-right}
+![47da7f28cf78aa616e451f6f7d77071e.png](https://luisparedes1.github.io/mundo-fisica/assets/teoria/08_optica_geometrica/images/58289c8fe1bc4720a870f0baaa1f4691.png){: .align-right}
 
 
 > Las lentes convergentes tienen el centro mas grueso que los bordes.
@@ -36,7 +36,7 @@ En nuestra convención de signos estas definiciones traen como consecuencia que 
 * Plano Concavo
 * Concavo-Convexo
 
-![32d0749260f2fd376063f25153527238.png](/assets/teoria/08_optica_geometrica/images/6089c382e26044a6b9c4a094828fe662.png){: .align-right}
+![32d0749260f2fd376063f25153527238.png](https://luisparedes1.github.io/mundo-fisica/assets/teoria/08_optica_geometrica/images/6089c382e26044a6b9c4a094828fe662.png){: .align-right}
 
 
 > Las lentes divergentes tienen el centro mas delgado que los bordes.
@@ -48,7 +48,7 @@ En nuestra convención de signos estas definiciones traen como consecuencia que 
 
 ## Comentarios Importantes
 
-![0e153c95e1105c6e80eae8de2e8e46ae.png](/assets/teoria/08_optica_geometrica/images/bfef38c57cde4324a33a0ed134330175.png){: .align-center}
+![0e153c95e1105c6e80eae8de2e8e46ae.png](https://luisparedes1.github.io/mundo-fisica/assets/teoria/08_optica_geometrica/images/bfef38c57cde4324a33a0ed134330175.png){: .align-center}
 
 
 Si el medio exterior a la lente es aire o tiene un índice de refracción menor que el de la lente, las tres primeras son convergentes: biconvexa, plano convexa y menisco cóncavo – convexo (con los radios de curvatura indicados en la figura de la izquierda).
@@ -119,7 +119,7 @@ Los focos principales equidistan de la lente y estan a uno y otro lado de la mis
 
 # Marcha de Rayos
 
-![be13bed50bd84764135f93b143d516ee.png](/assets/teoria/08_optica_geometrica/images/422c12ceb9c148cfbd32f1e1046c12ca.png){: .align-center}
+![be13bed50bd84764135f93b143d516ee.png](https://luisparedes1.github.io/mundo-fisica/assets/teoria/08_optica_geometrica/images/422c12ceb9c148cfbd32f1e1046c12ca.png){: .align-center}
 
 
 ## Rayos Principales
