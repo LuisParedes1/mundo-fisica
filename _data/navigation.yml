@@ -6,6 +6,8 @@ main:
 docs:
   - title: Temas
     children:
+      - title: Notaciones
+        url: /notaciones/
       - title: Cinematica
         url: /_pages/cinematica
       - title: Dinamica
@@ -22,6 +24,7 @@ docs:
         url: /_pages/optica_fisica
       - title: Optica Geometrica
         url: /_pages/optica_geometrica
+      
   
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
