@@ -12,7 +12,7 @@ Por lo general, en los ejercicios de este tema nos plantean uno de los tres caso
 - Difracción
 - Redes de difracción
 
-### Experiencia de Young (interferencia) 
+# Experiencia de Young (interferencia) 
 Los máximos principales en la experiencia de Young (los puntos donde las ondas forman una interferencia constructiva) están dados por:
 
 $$d\sin\theta=n \lambda$$
