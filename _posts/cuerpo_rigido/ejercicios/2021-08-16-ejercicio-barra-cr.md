@@ -5,9 +5,9 @@ layout: posts
 
 Este problema debemos tener muy presente los temas:
 
-* Teorema de Steiner
-* Rotacion pura con respecto a un eje
-* Cinematica de Cuerpo Rigido
+* Teorema de Steiner [^1]
+* Rotacion pura con respecto a un eje [^2]
+* Cinematica de Cuerpo Rigido [^3]
 
 
 ## Enunciado
@@ -28,3 +28,7 @@ Este problema debemos tener muy presente los temas:
 Nota: Al comprar el dominio deberia arreglarse este problema
 <embed src="/assets/guias/cuerpo_rigido/ej17.pdf#page=1" type="application/pdf" width="100%" height="100%">
 -->
+
+[^1]: [Teorema de Steiner](https://luisparedes1.github.io/mundo-fisica/teoria-dinamica-cr/#teorema-de-steiner)
+[^2]: [Rotacion pura con respecto a un eje](https://luisparedes1.github.io/mundo-fisica/teoria-cinematica-cr/#rotacion-pura)
+[^3]: [Cinematica de Cuerpo Rigido](https://luisparedes1.github.io/mundo-fisica/teoria-cinematica-cr/#ecuacion-de-roto-translacion)
