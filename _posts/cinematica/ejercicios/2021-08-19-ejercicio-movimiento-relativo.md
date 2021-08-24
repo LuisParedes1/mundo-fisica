@@ -30,4 +30,4 @@ Nota: Al comprar el dominio deberia arreglarse este problema
 
 [^1]: [Teoria de Posicion de particula en el espacio](https://luisparedes1.github.io/mundo-fisica/teoria-coordenadas/#coordenadas-cartesianas)
 
-[^2]: [Transformacion de Galileo](http://localhost:4000/teoria-transformacion-galileo/#regla-mnemotecnica)
+[^2]: [Transformacion de Galileo](https://luisparedes1.github.io/mundo-fisica/teoria-transformacion-galileo/#regla-mnemotecnica)
