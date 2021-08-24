@@ -246,7 +246,6 @@ $$
 
 # Intensidad
 
-
 $$
 	I = \frac{Potencia \ que \ transporta \ la \ onda}{Superficie \ donde \ se \ distribuye \ la \ energía}
 $$
@@ -257,6 +256,7 @@ $$
 
 
 ## Energía media por unidad de área y de tiempo = Potencia media sobre unidad de área = Intensidad
+
 $$ 
 \begin{equation}
 	I = \frac{1}{2} A^2 \, \omega^2 \, \rho \, c  \ [W/m^2]

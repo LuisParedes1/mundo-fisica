@@ -36,3 +36,22 @@ Cuando se expresa un vector fuerza de esta forma, se interpreta como:
 Estas unidades vectoriales se forman como combinación de otras unidades vectoriales ya mencionadas. 
 
 En particular, es muy importante aclarar el sistema de referencia tomado para el torque y momento lineal, ya que estos dependen directamente del mismo.
+
+# Unidades Vectores
+
+| Magnitud | Unidad Principal    |
+| :---: | :---: |
+| Masa   |  Kilogramo (Kg) |
+| Longitud   |  Metro (m) |
+| Tiempo   |  Segundo (s) |
+| Temperatura   |  Centigrados (C) |
+| Velocidad   |  metros por segundo (m/s) |
+| Fuerza | Newton (N) |
+| Torque   |  Newton por metro (N*m) |
+| Cantidad de Movimiento (P) | Kg*m/s    |
+| Impulso (I)  | Joule ($$1J = 1 kg \frac{m^2}{s^2}$$)  |
+
+
+# Conversion de Unidades
+
+![Escala Unidades](https://luisparedes1.github.io/mundo-fisica/assets/teoria/notaciones/escala.png){: .align-center}

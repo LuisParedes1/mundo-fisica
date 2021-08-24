@@ -47,7 +47,7 @@ $$E_{pg} = g \cdot M \cdot y_{cm} $$
 
 $$
 \begin{equation}
-\tau^o_{ext} = \dfrac{d\vec{L}^o_{sist}}{dt} = \sum  \vec{r}_{i/o} \times \vec{F}_{ext	}
+\vec{\tau}^o_{ext} = \dfrac{d\vec{L}^o_{sist}}{dt} = \sum  \vec{r}_{i/o} \times \vec{F}_{ext	}
 \end{equation}
 $$
 
