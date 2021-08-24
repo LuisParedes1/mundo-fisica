@@ -54,4 +54,4 @@ En particular, es muy importante aclarar el sistema de referencia tomado para el
 
 # Conversion de Unidades
 
-![Escala Unidades](https://luisparedes1.github.io/mundo-fisica/assets/teoria/notaciones/escala.png){: .align-center}
+![Escala Unidades](https://luisparedes1.github.io/mundo-fisica/assets/teoria/notaciones/notacion-escalar.png){: .align-center}
