@@ -4,8 +4,8 @@ layout: posts
 ---
 Este problema debemos tener muy presente los temas:
 
-* Principios de Newton
-* Condicion de Vinculo para una barra ideal [^1]
+* [Principios de Newton](https://luisparedes1.github.io/mundo-fisica/teoria-dinamica/)
+* [Condicion de Vinculo para una barra ideal](https://luisparedes1.github.io/mundo-fisica/teoria-condicion-vinculo/#condicion-de-vinculo)
 
 ## Enunciado
 
