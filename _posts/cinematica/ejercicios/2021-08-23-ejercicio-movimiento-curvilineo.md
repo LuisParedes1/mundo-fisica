@@ -7,13 +7,13 @@ En el siguiente ejercicio trataremos de describir el siguiente fenómeno.
 
 ![89e5dc1edd280a8fc98c77e3c24c342c.png](https://luisparedes1.github.io/mundo-fisica/assets/guias/gifs/proyectil.gif){: .align-center}
 
-Utilizando cinematica se puede describir completamente el desplazamiento y en el punto de maxima altura observamos el radio de curvatura. 
+Utilizando cinematica se puede describir completamente el desplazamiento. Tambien en el punto de maxima altura observamos el radio de curvatura.
 
 
 Este problema debemos tener muy presente los temas:
 
-* Posicion de una particula en el espacio [^1]
-* Radio de Curvatura [^2]
+* [Posicion de una particula en el espacio](https://luisparedes1.github.io/mundo-fisica/teoria-coordenadas/#coordenadas-cartesianas)
+* [Radio de Curvatura](https://luisparedes1.github.io/mundo-fisica/teoria-coordenadas/#radio-de-giro)
 
 ## Enunciado
 

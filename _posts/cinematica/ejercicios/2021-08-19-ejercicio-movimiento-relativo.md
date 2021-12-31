@@ -5,8 +5,8 @@ layout: posts
 
 Este problema debemos tener muy presente los temas:
 
-* Posicion de una particula en el espacio [^1]
-* Transformacion de Galileo [^2]
+* [Posicion de una particula en el espacio](https://luisparedes1.github.io/mundo-fisica/teoria-coordenadas/#coordenadas-cartesianas)
+* [Transformacion de Galileo](https://luisparedes1.github.io/mundo-fisica/teoria-transformacion-galileo/#regla-mnemotecnica)
 
 
 ## Enunciado
