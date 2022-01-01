@@ -5,10 +5,10 @@ layout: posts
 
 Este problema debemos tener muy presente los temas:
 
-* [Teorema de Steiner](https://luisparedes1.github.io/mundo-fisica/teoria-dinamica-cr/#teorema-de-steiner)
 * [Diagrama de Cuerpo Libre](https://luisparedes1.github.io/mundo-fisica/teoria-dinamica/#tercer-principio-principio-de-interacci%C3%B3n)
 * [Rotacion pura con respecto a un eje](https://luisparedes1.github.io/mundo-fisica/teoria-cinematica-cr/#rotacion-pura)
-* [Cinematica de Cuerpo Rigido](https://luisparedes1.github.io/mundo-fisica/teoria-cinematica-cr/#ecuacion-de-roto-translacion)
+* [Segundo Principio de Newton para CR](https://luisparedes1.github.io/mundo-fisica/teoria-dinamica-cr/#segundo-principio-de-newton-para-cr)
+* [Ecuacion Fundamental de Rotacion](https://luisparedes1.github.io/mundo-fisica/teoria-dinamica-cr/#ecuacion-fundamental-de-rotacion)
 
 
 ## Enunciado
