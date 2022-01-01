@@ -26,7 +26,7 @@ El siguiente ejercicio consta de dos partes
 
 _Paso 1:_ En principio se analizara la variacion de cantidad de movimiento **solamente sobre el eje x** para obtener la velocidad con la que empieza a subir.
 
-> Solamente analizamos el movimiento en el eje X porque como la bala incrusta tan rapido al bloque, se considera que no cambia su velocidad en el eje X y por ende esta libre de fuerzas externas, en cambio sobre el eje Y tenemos la fuerza de tension y la fuerza peso que si afectan, haciendo que no se cumpla la [conservacion de cantidad de movimiento](https://luisparedes1.github.io/mundo-fisica/teoria-sistema-particulas/#impulso-del-sistema-de-particulas) sobre el eje Y.
+> Solamente analizamos el movimiento en el eje X porque como la bala incrusta tan rapido al bloque, se considera que no cambia su velocidad en el eje X y por ende está libre de fuerzas externas, en cambio sobre el eje Y tenemos la fuerza de tension y la fuerza peso que si afectan, haciendo que no se cumpla la [conservacion de cantidad de movimiento](https://luisparedes1.github.io/mundo-fisica/teoria-sistema-particulas/#impulso-del-sistema-de-particulas) sobre el eje Y.
 
 _Paso 2:_ Luego analizamos el trabajo y energia del sistema como un unico cuerpo.
 
