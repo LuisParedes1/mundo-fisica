@@ -63,7 +63,7 @@ $$I_e = I_{cm} + Md^2$$
 A partir de $\vec{L}^o_{sist} = \vec{L}^o_{cm} + \vec{L}^{cm}_{sist}$
 
 
-$$\vec{L}^e = \vec{r}_{cm/o} \times M\vec{v}_{cm/o} + I_{cm}\vec{\Omega}$$
+$$\vec{L}^o = \vec{r}_{cm/o} \times M\vec{v}_{cm/o} + I_{cm}\vec{\Omega}$$
 
 * $$\vec{L}_{orbital} =\ \vec{r}_{cm/o} \times M\vec{v}_{cm/o}$$
 * $$\vec{L}_{spin} = I_{cm}\vec{\Omega}$$
