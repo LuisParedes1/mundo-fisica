@@ -1,5 +1,5 @@
 ---
-title: Problema de Choque de Pendulos
+title: Problema de Pendulo Balistico
 layout: posts
 ---
 
