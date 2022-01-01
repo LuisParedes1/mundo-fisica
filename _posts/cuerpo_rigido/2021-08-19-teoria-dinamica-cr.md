@@ -101,7 +101,7 @@ $$
 \end{equation}
 $$
 
-* La energía cinética para un CR tiene entonces dos términos, uno referido a laraslación y otro referido a la rotación.
+* La energía cinética para un CR tiene entonces dos términos, uno referido a la translación y otro referido a la rotación.
 * El trabajo de fuerzas interiores para un CR es 0 por la condición de rigidez.
 
 
