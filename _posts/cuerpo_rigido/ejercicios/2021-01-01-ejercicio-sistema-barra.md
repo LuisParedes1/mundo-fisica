@@ -9,6 +9,7 @@ Este problema debemos tener muy presente los temas:
 * [Rotacion pura con respecto a un eje](https://luisparedes1.github.io/mundo-fisica/teoria-cinematica-cr/#rotacion-pura)
 * [Segundo Principio de Newton para CR](https://luisparedes1.github.io/mundo-fisica/teoria-dinamica-cr/#segundo-principio-de-newton-para-cr)
 * [Ecuacion Fundamental de Rotacion](https://luisparedes1.github.io/mundo-fisica/teoria-dinamica-cr/#ecuacion-fundamental-de-rotacion)
+* [Trabajo & Energia](https://luisparedes1.github.io/mundo-fisica/teoria-dinamica-cr/#trabajo)
 
 
 ## Enunciado
