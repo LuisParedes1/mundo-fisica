@@ -11,7 +11,7 @@ Para que el efecto producido por la fuerza $\vec{F}$ no cambie, se agrega al sis
 
 ![271f4e286945fbd19e579cb05983766b.png](https://luisparedes1.github.io/mundo-fisica/assets/teoria/05_cuerpo_rigido/images/e47f8905f2f24b0fa51ed8ad590fb845.png){: .align-center}
 
- $\vec{F}'$ es la fuerza  $\vec{F}$ trasladada al CM y ==$\vec{F}$ junto con  $-\vec{F}'$ forman lo que se denomina cupla o par de fuerzas.==
+ $\vec{F}'$ es la fuerza  $\vec{F}$ trasladada al CM y <mark> $\vec{F}$ junto con  $-\vec{F}'$ forman lo que se denomina cupla o par de fuerzas. </mark>
  
 Trasladar, entonces, una fuerza al CM da por resultado la fuerza aplicada en otro punto (en este caso el CM) más una cupla.
 
